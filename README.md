@@ -1,4 +1,4 @@
-# 🌾 CropVision: Agricultural Crop Plant Image Classification (Data Science Project)
+# 🌾 CropVision: Agricultural Crop Plant Image Classification
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange.svg)](https://pytorch.org/)
@@ -6,19 +6,6 @@
 [![Classes](https://img.shields.io/badge/Crop%20Classes-139-green.svg)](#dataset)
 
 An end-to-end Deep Learning & Computer Vision project designed to classify **139 distinct agricultural crop plant species** from leaf and plant field images. The project includes a complete PyTorch training and evaluation pipeline, transfer learning backbones, an interactive Streamlit web dashboard with agronomic farming profiles, and a well-annotated Jupyter Notebook.
-
----
-
-## 📌 Table of Contents
-1. [Project Overview](#-project-overview)
-2. [Dataset Structure](#-dataset-structure)
-3. [Architecture & Pipeline](#-architecture--pipeline)
-4. [Project Directory Layout](#-project-directory-layout)
-5. [Installation & Setup](#-installation--setup)
-6. [Training & Evaluation](#-training--evaluation)
-7. [Running the Interactive Web App](#-running-the-interactive-web-app)
-8. [CLI Prediction API](#-cli-prediction-api)
-9. [Jupyter Notebook](#-jupyter-notebook)
 
 ---
 
