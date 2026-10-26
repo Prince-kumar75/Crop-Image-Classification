@@ -1,0 +1,907 @@
+{
+  "architecture": "resnet18",
+  "total_test_samples": 278,
+  "test_loss": 4.466,
+  "top1_accuracy_pct": 10.79,
+  "top5_accuracy_pct": 24.1,
+  "top_performing_classes": [
+    {
+      "class_name": "Blueberries plant",
+      "total": 2,
+      "correct": 2,
+      "accuracy_pct": 100.0
+    },
+    {
+      "class_name": "Cotton lint plant",
+      "total": 2,
+      "correct": 2,
+      "accuracy_pct": 100.0
+    },
+    {
+      "class_name": "Habanero pepper plant",
+      "total": 2,
+      "correct": 2,
+      "accuracy_pct": 100.0
+    },
+    {
+      "class_name": "Pumpkins, squash and gourds plant",
+      "total": 2,
+      "correct": 2,
+      "accuracy_pct": 100.0
+    },
+    {
+      "class_name": "Rapeseed (Canola) plant",
+      "total": 2,
+      "correct": 2,
+      "accuracy_pct": 100.0
+    }
+  ],
+  "lowest_performing_classes": [
+    {
+      "class_name": "Vanilla beans plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Walnuts plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Watermelons plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Wheat plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Yams plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    }
+  ],
+  "per_class": [
+    {
+      "class_name": "Blueberries plant",
+      "total": 2,
+      "correct": 2,
+      "accuracy_pct": 100.0
+    },
+    {
+      "class_name": "Cotton lint plant",
+      "total": 2,
+      "correct": 2,
+      "accuracy_pct": 100.0
+    },
+    {
+      "class_name": "Habanero pepper plant",
+      "total": 2,
+      "correct": 2,
+      "accuracy_pct": 100.0
+    },
+    {
+      "class_name": "Pumpkins, squash and gourds plant",
+      "total": 2,
+      "correct": 2,
+      "accuracy_pct": 100.0
+    },
+    {
+      "class_name": "Rapeseed (Canola) plant",
+      "total": 2,
+      "correct": 2,
+      "accuracy_pct": 100.0
+    },
+    {
+      "class_name": "Apples plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Bananas plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Cauliflower plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Cherimoya plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Cinnamon plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Collards plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Dry peas plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Eggplants (Aubergines) plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Endive plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Fava bean plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Flax fiber and tow plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Groundnuts (Peanuts) plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Jute plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Longan plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Maize (Corn) plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Mandarins, clementines, satsumas plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Mung bean plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Rye plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Sorghum plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Tea plant",
+      "total": 2,
+      "correct": 1,
+      "accuracy_pct": 50.0
+    },
+    {
+      "class_name": "Aji pepper plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Almonds plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Amaranth plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Artichoke plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Avocados plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Barley plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Beets plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Black pepper plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Bok choy plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Brazil nuts plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Broccoli plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Brussels sprout plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Buckwheat plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Cabbages and other brassicas plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Camucamu plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Carrots and turnips plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Cashew nuts plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Cassava plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Celery plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Cherry plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Chestnuts plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Chickpeas plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Chili peppers and green peppers plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Cloves plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Cocoa beans plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Coconuts plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Coffee (green) plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Cranberries plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Cucumbers and gherkins plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Dates plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Dry beans plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Durian plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Figs plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Flaxseed (Linseed) plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Fonio plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Garlic plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Ginger plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Gooseberries plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Grapes plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Guarana plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Guavas plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Hazelnuts plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Hemp plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Hen eggs (shell weight) plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Horseradish plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Jackfruit plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Kale plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Kohlrabi plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Leeks plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Lemons and limes plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Lentils plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Lettuce and chicory plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Lima bean plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Lupins plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Lychee plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Mangoes, mangosteens, guavas plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Maracuja(Passionfruit) plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Millet plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Mint plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Mustard greens plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Mustard seeds plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Navy bean plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Oats plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Oil palm fruit plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Okra plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Olives plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Onions (dry) plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Oranges plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Oregano plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Papayas plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Parsley plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Peaches and nectarines plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Peas (Green) plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Persimmons plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Pine nuts plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Pineapples plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Pinto bean plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Pistachios plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Plantains plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Pomegranates plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Potatoes plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Quinoa plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Radishes and similar roots plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Rambutan plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Raspberries plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Rice (Paddy) plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Rosemary plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Rubber (natural) plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Saffron plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Sage plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Scallions plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Soursop plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Soybeans plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Spinach plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Starfruit plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Strawberries plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Sugar beet plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Sugar cane plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Sunflower seeds plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Sweet potatoes plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Swiss chard plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Tamarind plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Taro (cocoyam) plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Teff plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Thyme plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Tomatoes plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Triticale plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Turmeric plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Turnip greens plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Vanilla beans plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Walnuts plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Watermelons plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Wheat plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    {
+      "class_name": "Yams plant",
+      "total": 2,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    }
+  ]
+}
